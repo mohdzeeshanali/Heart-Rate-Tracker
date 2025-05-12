@@ -1,7 +1,3 @@
-Sure! Here's a rewritten version of your project description with different wording while maintaining the original context and structure:
-
----
-
 # Heart Rate Tracker via Camera
 
 ## Overview
@@ -65,6 +61,3 @@ The objective of this tool is to track a user's heart rate through their facial 
 
 This project is distributed under the [MIT License](LICENSE). You are welcome to modify, use, or share it under the terms of this license.
 
----
-
-Would you like help creating a `README.md` file with this version?
